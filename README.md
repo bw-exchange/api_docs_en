@@ -1,6 +1,6 @@
 #### Inventor quantification ([FMZ.COM](https://www.fmz.com)) is the largest digital currency quantification trading platform in China. It supports Javascript/Python/C++/MAI language/visualization, five programming languages, the platform strategy fully supports all of currencies in [BW.COM](https://www.bw.io), and can quickly start quantitative trading.
 
-Please refer to the "user center - API Settings" page for apikey application and modification.
+Please refer to the "User Center - API Setting" page for apikey application and modification.
 
 Please refer to the [**FAQ**](https://github.com/bw-exchange/api_docs_cn/issues) for frequently asked questions.
 
