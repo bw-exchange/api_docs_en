@@ -38,7 +38,7 @@ If your BW spot account meets the requirements of **Level 2**, please provide th
 
 > Address: wss://kline.bw.com/websocket
 
-* [Subscribe  instructions](https://github.com/bw-exchange/api_docs_en/wiki/WebSocket-Subscribe-instructions)
+* [Subscribe  instructions](https://github.com/bw-exchange/api_docs_en/wiki/WebSocket-API-Subscribe-instructions)
 * [API Reference](https://github.com/bw-exchange/api_docs_en/wiki/WebSocket-API-Reference)
 * [Error code](https://github.com/bw-exchange/api_docs_en/wiki/WebSocket-API-ErrorCode)
 * Code sample: [Java](https://github.com/bw-exchange/api/tree/master/java) [Python](https://github.com/bw-exchange/api/tree/master/python) [Nodejs](https://github.com/bw-exchange/api_docs_cn/blob/master/nodejsDemo/websocketDemo.js)
